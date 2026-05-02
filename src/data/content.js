@@ -9,7 +9,7 @@ export const content = {
 
 
 
-    topNames: "॥ Shri Ganesh Prasanna ॥", 
+    topNames: "॥Shri Ganeshaya Namah ॥", 
     topheading:"Sharing Our Joy",
     housename:"Shree Dattashray",
     celebratetionname:"House Warming Ceremony",
@@ -53,7 +53,7 @@ export const content = {
       labels: { days: "दिवस", hours: "तास", minutes: "मिनिटे", seconds: "सेकंद", started: "समारंभ सुरू झाला आहे!" },
       lastPara: "आम्ही आपल्याला आमच्या खास दिवशी सहभागी होण्यासाठी आमंत्रित करत आहोत. आपली उपस्थिती आम्हाला खूप महत्त्वाची आहे!",
     },
-    topNames: "॥ श्री गणेश प्रसन्न ॥", 
+    topNames: "॥ श्री गणेशाय नम: ॥", 
     topheading:"गृहप्रवेश",
     housename:"श्री दत्ताश्रय",
     celebratetionname:"गृहप्रवेश समारंभ",
