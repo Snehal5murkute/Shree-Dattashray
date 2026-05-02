@@ -96,7 +96,7 @@ export default function InvitationCard({ lang }) {
 
     <div className="text-sm text-center">
       <div className="w-10 h-[1px] bg-[#c89b3c] mb-1 mx-auto"></div>
-      AT 12:30 PM
+      AT 1:30 PM
       <div className="w-10 h-[1px] bg-[#c89b3c] mt-1 mx-auto"></div>
     </div>
 
@@ -112,7 +112,7 @@ export default function InvitationCard({ lang }) {
   href="tel:+918277223434"
   className="text-sm text-[#7a3e1d] font-medium hover:underline"
 >
-  📞 +91 82772 23434
+  📞  +91 82772 23434 / +91 9449941941
 </a>
 
   {/* 🌸 Bottom Decoration */}
