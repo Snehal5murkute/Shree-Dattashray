@@ -1,4 +1,4 @@
-import ganpati from "../assets/bgg4.png";
+import ganpati from "../assets/bgg4.PNG";
 import house from "../assets/houseimg.jpeg";
 import { content } from "../data/content";
 
